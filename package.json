@@ -58,7 +58,7 @@
     "eslint-config-eda": "^0.1.1",
     "file-loader": "^6.1.0",
     "grommet": "^2.15.0",
-    "jest": "^25.3.0",
+    "jest": "^26.0.0",
     "knex": "^0.21.5",
     "nock": "^13.0.4",
     "nodemon": "^2.0.4",
@@ -73,8 +73,8 @@
     "style-loader": "^1.2.1",
     "styled-components": "^5.2.0",
     "supertest": "^4.0.2",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11",
+    "webpack": "^5.1.1",
+    "webpack-cli": "^4.0.0",
     "webpack-dev-server": "^3.11.0"
   }
 }
